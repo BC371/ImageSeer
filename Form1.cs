@@ -48,10 +48,11 @@ namespace ImageSeer
 		private void Form1_DragDrop(object sender, DragEventArgs e)
 		{
 			pictureBox1.Image = new Bitmap(((Array)e.Data.GetData(DataFormats.FileDrop)).GetValue(0).ToString());
+			origin_rate = pictureBox1.Image.Width / (float)pictureBox1.Image.Height;
 			this.Width = pictureBox1.Image.Width;
 			this.Height = pictureBox1.Image.Height;
 			w = this.Width;
-			origin_rate = pictureBox1.Image.Width / (float)pictureBox1.Image.Height;
+			
 
 		}
 
