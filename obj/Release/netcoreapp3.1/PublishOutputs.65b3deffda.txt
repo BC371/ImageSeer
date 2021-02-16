@@ -1,0 +1,5 @@
+C:\Users\ASUS\source\repos\ImageSeer\bin\Release\netcoreapp3.1\publish\ImageSeer.exe
+C:\Users\ASUS\source\repos\ImageSeer\bin\Release\netcoreapp3.1\publish\ImageSeer.dll
+C:\Users\ASUS\source\repos\ImageSeer\bin\Release\netcoreapp3.1\publish\ImageSeer.deps.json
+C:\Users\ASUS\source\repos\ImageSeer\bin\Release\netcoreapp3.1\publish\ImageSeer.runtimeconfig.json
+C:\Users\ASUS\source\repos\ImageSeer\bin\Release\netcoreapp3.1\publish\ImageSeer.pdb
